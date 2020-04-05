@@ -1,10 +1,8 @@
 #Electron Builder
 
-Они рекомендуют Yarn.
+Они рекомендуют Yarn. Но проект отлично работает и в NPM
 
-Но проект отлично работает и в NPM
-
-Yarn only. Renderer.sourceDirectory can be null.
+Renderer.sourceDirectory can be null.
 
 - Config
     - [Config electron-webpack.json](doc/ConfigElectronWebpack.md)
@@ -13,3 +11,5 @@ Yarn only. Renderer.sourceDirectory can be null.
 - Other
     - [Hot reload](doc/Yarn.md)
     - [Yarn](doc/HotReload.md)
+
+![](doc/img/2020-04-05-index.png)
