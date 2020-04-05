@@ -1,5 +1,9 @@
 #Electron Builder
 
+Они рекомендуют Yarn.
+
+Но проект отлично работает и в NPM
+
 Yarn only. Renderer.sourceDirectory can be null.
 
 - Config
