@@ -1,0 +1,6 @@
+{	
+	appId": "Kvisaz.App",
+  "devDependencies": {
+    "electron-builder": "^22.4.1"
+  }
+}
