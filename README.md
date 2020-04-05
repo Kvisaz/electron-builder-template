@@ -2,6 +2,10 @@
 
 Yarn only. Renderer.sourceDirectory can be null.
 
-- [Config](doc/Config.md)
-- [Hot reload](doc/Yarn.md)
-- [Yarn](doc/HotReload.md)
+- Config
+    - [Config electron-webpack.json](doc/ConfigElectronWebpack.md)
+    - [Config webpack](doc/ConfigWebpack.md)
+
+- Other
+    - [Hot reload](doc/Yarn.md)
+    - [Yarn](doc/HotReload.md)
